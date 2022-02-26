@@ -1,8 +1,7 @@
 
 # Crud api with mongodb and Golang 
 
-# Installation Steps
- 
+
 # Quick Run Project
      go get github.com/pavanilla/appointy 
      
