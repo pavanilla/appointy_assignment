@@ -16,6 +16,10 @@
     go test
 
 
+# Architecture 
+
+ ![Architecture](https://github.com/pavanilla/appointy_assignment/blob/main/architecture.jpeg)
+
 ## Need to import following packages
 
 	  1.go get go.mongodb.org/mongo-driver/mongo
