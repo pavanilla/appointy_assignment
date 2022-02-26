@@ -54,5 +54,6 @@
       8.curl -i -H "Accept: application/json" -H "Content-type: application/json" -X GET http://localhost:8080/posts/list
     
       9.curl -i -H "Accept: application/json" -H "Content-type: application/json" -X DELETE http://localhost:8080/posts/delete?id={}
-   
+   # Assumptions 
+       1. In the userApi LoginEndPoint. to get the user by username and password. the username is going to be unique so I have made query by using only username. and before creating the new User i have made a check to search in the mongodb to allow the duplicates.  
   
