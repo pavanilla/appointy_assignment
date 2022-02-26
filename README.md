@@ -13,6 +13,7 @@
     cd appointy
     
     go build main.go
+    go test
 
 
 ## Need to import following packages
